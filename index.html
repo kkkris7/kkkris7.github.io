@@ -1,9 +1,10 @@
 ---
 layout: home
+edit: 2019-09-14
 ---
 <div class="user-details">
 <h2> Me and this website </h2>
-<p style="text-align: justify;"> Your description </p>
+<p style="text-align: justify;"> &nbsp;&nbsp;&nbsp;&nbsp;I am a data science graduate at University of Maryland, College Park and I will be graduated by December, 2019. This blog is dedicated to tracking my progress with my projects and work experience. You are always welcomed to comment on my posts for suggestions or discussions. You can learn more anout me at the <a href="/about"> about page</a>. </p>
 <div class="analytics"  style="border: solid lightgrey; border-radius: 5px;">
 	<h3> Analytics </h3>
 	{% include clustrmap.html style="js" %}
@@ -12,7 +13,7 @@ layout: home
 </div>
 <div class="permlinks">
 <h2>Recent Posts</h2>
-<dl>
+<!-- <dl>
 	{% for post in site.posts limit:3 %}
 	<dt><code>{{ post.date | date_to_string }} </code><i class="fas fa-angle-double-right" aria-hidden="true"></i><a href="{{ post.url }}">{{ post.title }}</a> &nbsp;{% include status-indicator.html status=post.status%}
 	{% if post.description %}
@@ -21,12 +22,12 @@ layout: home
 	{% endif %}
 	{% endfor %}
 	<p>... <a href="/blog">Full Posts List</a> </p>
-</dl>
+</dl> -->
 
-<h2>Upcoming Posts (edit me at /index.html )</h2>
+<h2>Upcoming Posts </h2>
 <ul>
-	<li>Post 1</li>
-	<li>Post 2</li>
+	<li>Vehicle License Detection with Yolov3 - Deep learning of Computer Vision</li>
+	<li>2019 NBA Championship Prediction with Machine Learning</li>
 </ul>
 
 </div >

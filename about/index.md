@@ -1,7 +1,7 @@
 ---
 title: About
 layout: info
-Edit: 2018-11-14
+Edit: 2019-09-14
 toc: false
 commentable: false
 protected: true
@@ -10,10 +10,18 @@ mathjax: true
 
 # Me
 
+My name is Junjie (Chris) Li, and I'm currently enrolled at University of Maryland, college park as a data scientist graduate. I will be graduated by December, 2019 and 
+eager to use my knowledge to change and improve our real world. 
 
+With more understanding of data science, I found the whole data world come to be more and more elegant. The final goal of my career is to be a full stack python engineer. I want to dedicate myself to **Big Data, Machine Learning, Deep Learning, AI and Web Development.** 
+
+Here is my two version of [CV1](https://kkkris7.github.io/about/Chris_Li_data_scientist.pdf) and [CV2](https://kkkris7.github.io/about/Junjie_(Chris)_Li_Resume_0901.pdf) (last update: 2019-09-14).
 
 # This Site
 
+This blog is dedicated to tracking my progress with personal projects. I also benefited a lot from many insightful blogs and now I have something to give back. Watching my notes published on websites also gives me motivation and a strange consolation. 
+
+I also realized that this website can be used as a billboard of my professional backgrounds. This is a great proof for what I have learned.
 
 # Posts
 
@@ -46,22 +54,15 @@ This website uses these sources:
 | [404 T-rex game](https://github.com/wayou/t-rex-runner)      | 404 page                                        | from [Chromium source code](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package), [license](https://chromium.googlesource.com/chromium/src.git/+/master/LICENSE) |
 | [Encryption](https://github.com/robinmoisson/staticrypt)     | Secret Pages                                    | [MIT](http://opensource.org/licenses/MIT)                    |
 
-Additional licensing information can be found YOUR WEBSITE LINK.
+Additional licensing information can be found [here](https://github.com/kkkris7/kkkris7.github.io/blob/master/LICENSE.md).
 
-# The Name
-
-I named this website "A Finger Pointing to the Moon", as in the Buddhism story:
-
-> **佛告阿难。汝等尚以缘心听法。此法亦缘。非得法性。**
->
-> **若复观指以为月体。此人岂唯亡失月轮。亦亡其指。何以故。以所标指为明月故。**
->
-> **岂唯亡指。亦复不识明之与暗。何以故。即以指体。为月明性。明暗二性。无所了故。**
-
-Which has been beautifully put by Bruce Lee:
-
->It's like a finger pointing away to the moon. Don't concentrate on the finger or you will all that heavenly glory.
 
 # Contact
 
-The best way to reach me is via email: $namer$ @ $web.com$
+> **Email Address: junjie.li@rhsmith.umd.edu**
+>
+> **Phone Number: 2404136563**
+>
+> **Linkedin: https://www.linkedin.com/in/ds-chris-li**
+>
+> **Github: https://github.com/kkkris7**
